@@ -1,7 +1,6 @@
 # Restaurant Ordering System Group Project
 Showcasing the backend code done for a restaurant ordering system
 
-
 This program is developed in C++ to streamline the process of taking orders, managing tables, generating bills, and maintaining a history log of bill payments. This system is designed to enhance the efficiency of restaurant operations and provide a better experience for both customers and staff. Let's break down the key features and components of this system:
 
 **Table Management:**
